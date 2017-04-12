@@ -1,0 +1,7 @@
+{
+  "userArchList":
+  [
+    {"id":"1", "userId":"1256551", "userName":"甲", "userStatus":"1"},
+    {"id":"2", "userId":"1256552", "userName":"乙", "userStatus":"0"}
+  ]
+}
